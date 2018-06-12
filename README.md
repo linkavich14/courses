@@ -8,6 +8,11 @@ You are currently studying to complete a software development certification prov
 
 You decide to write a program that, given a list of courses and their pre-requisites, produces a possible order in which you may complete as many of the provided course units as possible, adhering to the pre-requisite requirements.
 
+The following files are provided: 
+
+- A comma-seperated file containing course titles and unique ids, "courses.csv".
+- A comma-seperated file containing course pre-requisites, by id, "prerequisites.csv".
+
 
 # How to run it
 
