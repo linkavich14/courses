@@ -1,4 +1,4 @@
-# Courses Code Challenge 
+# Courses Code
 
 Small program that show you what courses can be taken depending of prerequisites, the description of the problem is the following
 
